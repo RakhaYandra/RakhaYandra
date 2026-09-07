@@ -56,7 +56,7 @@ Information Systems graduate (Telkom University, GPA 3.81/4.00) with hands-on ex
 
 - Performance Evaluation of a Modular Laravel–Flask Backend for Real-Time Air Quality Forecasting in IoT-Based Systems — ICoDSA, IEEE Xplore (2025)
 
-## 🛠️ Core Competencies (from CV):
+## 🛠️ Core Competencies:
 
 - Leadership & Collaboration: Project Coordination, Cross-functional Collaboration, Stakeholder Communication
 - Analysis: Requirement/Process Analysis, Data Validation, Troubleshooting, Debugging
