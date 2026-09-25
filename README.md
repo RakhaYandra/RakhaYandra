@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi
 I build what I need, or what I'm paid to.
 
 Backend-ish. Go, Laravel, React. Omarchy daily.
