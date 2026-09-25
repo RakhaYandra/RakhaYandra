@@ -1,10 +1,18 @@
-# Hi, it´s Rakha
-I build what I need, or what I'm paid to.
+# Hi, I'm Rakha 👋
 
-Backend-ish. Go, Laravel, React. Omarchy daily.
+I write code, break things, fix them, and somehow call it engineering.
 
-Currently hacking on [pulse](https://github.com/RakhaYandra/pulse) (API monitoring), [lifeos](https://github.com/RakhaYandra/lifeos) (personal OS), [shiftbase](https://github.com/RakhaYandra/shiftbase) (HR API).
+Mostly backend-ish.
+Go, Laravel, React, APIs, databases, and whatever gets the job done.
 
-More: [rakhayandra.github.io](https://rakhayandra.github.io/)
+Currently messing around with:
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=RakhaYandra&theme=github-compact)
+* 🫀 [pulse](https://github.com/RakhaYandra/pulse) - API monitoring
+* 🧠 [lifeos](https://github.com/RakhaYandra/lifeos) - trying to organize my life in code
+* 🕐 [shiftbase](https://github.com/RakhaYandra/shiftbase) - HR API stuff
+
+Running Omarchy daily, probably tweaking something I shouldn't.
+
+More things I've built: [rakhayandra.github.io](https://rakhayandra.github.io/)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=RakhaYandra\&theme=github-compact)
