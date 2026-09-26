@@ -8,8 +8,6 @@ Go, Laravel, React, APIs, databases, and whatever gets the job done.
 Currently messing around with:
 
 * 🫀 [pulse](https://github.com/RakhaYandra/pulse) - API monitoring
-* 🧠 [lifeos](https://github.com/RakhaYandra/lifeos) - trying to organize my life in code
-* 🕐 [shiftbase](https://github.com/RakhaYandra/shiftbase) - HR API stuff
 
 Running Omarchy daily, probably tweaking something I shouldn't.
 
