@@ -8,6 +8,7 @@ Go, Laravel, React, APIs, databases, and whatever gets the job done.
 Currently messing around with:
 
 * 🫀 [pulse](https://github.com/RakhaYandra/pulse) - API monitoring
+* 📦 [LANBox](https://github.com/RakhaYandra/lanbox-docs) - local-first LAN file sharing (Go + React, WIP)
 
 Running Omarchy daily, probably tweaking something I shouldn't.
 
