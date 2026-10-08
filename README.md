@@ -7,9 +7,10 @@ Go, Laravel, React, APIs, databases, and whatever gets the job done.
 
 Currently messing around with:
 
+* 🦊 [kitsune](https://github.com/RakhaYandra/kitsune) - profile-based Linux environment bootstrapper (Go, v0.1.0)
+* 🦉 [fukurou](https://github.com/RakhaYandra/fukurou) - floating system dashboard for Hyprland/Wayland (Go)
 * 🫀 [pulse](https://github.com/RakhaYandra/pulse) - API monitoring
 * 📦 [LANBox](https://github.com/RakhaYandra/lanbox-docs) - local-first LAN file sharing (Go + React, WIP)
-* 🦉 [fukurou](https://github.com/RakhaYandra/fukurou) - floating system dashboard for Hyprland/Wayland (Go)
 
 Running Omarchy daily, probably tweaking something I shouldn't.
 
