@@ -9,6 +9,7 @@ Currently messing around with:
 
 * 🫀 [pulse](https://github.com/RakhaYandra/pulse) - API monitoring
 * 📦 [LANBox](https://github.com/RakhaYandra/lanbox-docs) - local-first LAN file sharing (Go + React, WIP)
+* 🦉 [fukurou](https://github.com/RakhaYandra/fukurou) - floating system dashboard for Hyprland/Wayland (Go)
 
 Running Omarchy daily, probably tweaking something I shouldn't.
 
